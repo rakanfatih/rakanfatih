@@ -53,15 +53,15 @@
 
 <p align="left">
   <a href="mailto:rakanfatih01@gmail.com">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBvbHlnb24gcG9pbnRzPSIyMyAxMCAyMyAxNSAyMiAxNSAyMiAxNyAyMSAxNyAyMSAxOSAyMCAxOSAyMCAyMCAxOSAyMCAxOSAyMSAxNyAyMSAxNyAyMiAxNSAyMiAxNSAyMyA5IDIzIDkgMjIgNyAyMiA3IDIxIDUgMjEgNSAyMCA0IDIwIDQgMTkgMyAxOSAzIDE3IDIgMTcgMiAxNSAxIDE1IDEgOSAyIDkgMiA3IDMgNyAzIDUgNCA1IDQgNCA1IDQgNSAzIDcgMyA3IDIgOSAyIDkgMSAxNSAxIDE1IDIgMTcgMiAxNyAzIDE5IDMgMTkgNSAxOCA1IDE4IDYgMTcgNiAxNyA3IDE1IDcgMTUgNiA5IDYgOSA3IDcgNyA3IDkgNiA5IDYgMTUgNyAxNSA3IDE3IDkgMTcgOSAxOCAxNSAxOCAxNSAxNyAxNyAxNyAxNyAxNSAxOCAxNSAxOCAxNCAxMiAxNCAxMiAxMCAyMyAxMCIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==" width="40" alt="Email" />
+    <img src="email.svg" width="40" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/rakan-fatih-muhammad-4a6895298/">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0ibTIyLDJ2LTFIMnYxaC0xdjIwaDF2MWgyMHYtMWgxVjJoLTFabS05LDEwdjhoLTN2LTExaDN2MWgxdi0xaDR2MWgxdjEwaC0zdi04aC0zWm0tOS00di0zaDN2M2gtM1ptMywxdjExaC0zdi0xMWgzWiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==" width="40" alt="LinkedIn" />
+    <img src="linkedin.svg" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/rakanfth">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0ibTE3LDl2LTFoLTF2LTFoLTF2LTFoLTZ2MWgtMXYxaC0xdjFoLTF2MWgtMXY2aDF2MWgxdjFoMXYxaDF2MWg2di0xaDF2LTFoMXYtMWgxdi02aC0xWm0tMSw1aC0xdjFoLTF2MWgtNHYtMWgtMXYtMWgtMXYtNGgxdi0xaDF2LTFoNHYxaDF2MWgxdjRaIiBmaWxsPSIjRkZGRkZGIi8+PHBhdGggZD0ibTIyLDV2LTJoLTF2LTFoLTJ2LTFINTV2MWgtMnYxaC0xdjJoLTF2MTRoMXYyaDF2MWgydjFoMTR2LTFoMnYtMWgxdi0yaDFWNWgtMVptLTEsMTRoLTF2MWgtMXYxSDV2LTFoLTF2LTFoLTFWNWgxdi0xaDF2LTFoMTR2MWgxdjFoMXYxNFoiIGZpbGw9IiNGRkZGRkYiLz48cmVjdCB4PSIxNyIgeT0iNSIgd2lkdGg9IjIiIGhlaWdodD0iMiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==" width="40" alt="Instagram" />
+    <img src="instagram.svg" width="40" alt="Instagram" />
   </a>
 </p>
 
