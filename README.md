@@ -9,6 +9,11 @@
 
 <br/>
 
+Welcome to my digital save zone! 🏕️ I'm a full-time Informatics student and a professional bug creator currently grinding EXP at Gunadarma University. I survive mostly on caffeine, lo-fi beats, and the dangerous delusion that my code will compile perfectly on the first try. *(Spoiler alert: it never does)*. Feel free to explore my inventory, but please don't touch the spaghetti code.. it's structurally important! 🍝✨
+
+<br/>
+<br/>
+
 ## ![Character Stats](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=F7F7F7&width=400&lines=Character+Stats)
 
 > 📜 **`[PLAYER PROFILE & INVENTORY]`**
