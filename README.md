@@ -25,14 +25,11 @@
 
 ## ![Tech Stack](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=F7F7F7&width=400&lines=Tech+Stack)
 
-### 🛠️ Programming & Frameworks
-![Java](https://img.shields.io/badge/java-%231A1A1A.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00) ![JavaScript](https://img.shields.io/badge/javascript-%231A1A1A.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%231A1A1A.svg?style=for-the-badge&logo=csharp&logoColor=%23239120) ![PHP](https://img.shields.io/badge/php-%231A1A1A.svg?style=for-the-badge&logo=php&logoColor=%23777BB4) ![NodeJS](https://img.shields.io/badge/node.js-%231A1A1A.svg?style=for-the-badge&logo=node.js&logoColor=%236DA55F) ![Laravel](https://img.shields.io/badge/laravel-%231A1A1A.svg?style=for-the-badge&logo=laravel&logoColor=%23FF2D20) ![React](https://img.shields.io/badge/react-%231A1A1A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231A1A1A.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
+> 🛠️ **`[EQUIPPED SKILLS & TOOLS]`**
 
-### ☁️ Cloud & Databases
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%231A1A1A.svg?style=for-the-badge&logo=google-cloud&logoColor=%234285F4) ![MySQL](https://img.shields.io/badge/mysql-%231A1A1A.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1) ![GitHub](https://img.shields.io/badge/github-%231A1A1A.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎨 Design & Others
-![Figma](https://img.shields.io/badge/figma-%231A1A1A.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E) ![Unity](https://img.shields.io/badge/unity-%231A1A1A.svg?style=for-the-badge&logo=unity&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%231A1A1A.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,cs,php,nodejs,laravel,react,tailwind,gcp,mysql,github,figma,unity,canva&theme=dark&perline=7" width="600px" />
+</p>
 
 <br/>
 
@@ -48,3 +45,30 @@
 </div>
 
 <br/>
+
+## ![Connect With Me](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=F7F7F7&width=450&lines=Connect+With+Me)
+
+> 🤝 **`[GUILD COMMUNICATION SERVER]`**
+> Looking for a reliable party member for your next quest? Send me a message!
+
+<p align="left">
+  <a href="mailto:rakanfatih01@gmail.com">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBvbHlnb24gcG9pbnRzPSIyMyAxMCAyMyAxNSAyMiAxNSAyMiAxNyAyMSAxNyAyMSAxOSAyMCAxOSAyMCAyMCAxOSAyMCAxOSAyMSAxNyAyMSAxNyAyMiAxNSAyMiAxNSAyMyA5IDIzIDkgMjIgNyAyMiA3IDIxIDUgMjEgNSAyMCA0IDIwIDQgMTkgMyAxOSAzIDE3IDIgMTcgMiAxNSAxIDE1IDEgOSAyIDkgMiA3IDMgNyAzIDUgNCA1IDQgNCA1IDQgNSAzIDcgMyA3IDIgOSAyIDkgMSAxNSAxIDE1IDIgMTcgMiAxNyAzIDE5IDMgMTkgNSAxOCA1IDE4IDYgMTcgNiAxNyA3IDE1IDcgMTUgNiA5IDYgOSA3IDcgNyA3IDkgNiA5IDYgMTUgNyAxNSA3IDE3IDkgMTcgOSAxOCAxNSAxOCAxNSAxNyAxNyAxNyAxNyAxNSAxOCAxNSAxOCAxNCAxMiAxNCAxMiAxMCAyMyAxMCIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==" width="40" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rakan-fatih-muhammad-4a6895298/">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0ibTIyLDJ2LTFIMnYxaC0xdjIwaDF2MWgyMHYtMWgxVjJoLTFabS05LDEwdjhoLTN2LTExaDN2MWgxdi0xaDR2MWgxdjEwaC0zdi04aC0zWm0tOS00di0zaDN2M2gtM1ptMywxdjExaC0zdi0xMWgzWiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/rakanfth">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0ibTE3LDl2LTFoLTF2LTFoLTF2LTFoLTZ2MWgtMXYxaC0xdjFoLTF2MWgtMXY2aDF2MWgxdjFoMXYxaDF2MWg2di0xaDF2LTFoMXYtMWgxdi02aC0xWm0tMSw1aC0xdjFoLTF2MWgtNHYtMWgtMXYtMWgtMXYtNGgxdi0xaDF2LTFoNHYxaDF2MWgxdjRaIiBmaWxsPSIjRkZGRkZGIi8+PHBhdGggZD0ibTIyLDV2LTJoLTF2LTFoLTJ2LTFINTV2MWgtMnYxaC0xdjJoLTF2MTRoMXYyaDF2MWgydjFoMTR2LTFoMnYtMWgxdi0yaDFWNWgtMVptLTEsMTRoLTF2MWgtMXYxSDV2LTFoLTF2LTFoLTFWNWgxdi0xaDF2LTFoMTR2MWgxdjFoMXYxNFoiIGZpbGw9IiNGRkZGRkYiLz48cmVjdCB4PSIxNyIgeT0iNSIgd2lkdGg9IjIiIGhlaWdodD0iMiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==" width="40" alt="Instagram" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=100&section=footer" width="100%"/>
+</div>
