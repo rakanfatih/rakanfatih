@@ -1,4 +1,8 @@
-## Hello World! I'm Rakan Fatih Muhammad 👋
+<div align="center">
+  <img src="header.gif" width="100%" alt="Pixel Art Header" />
+  
+  <br/> <h2>Hello World! I'm Rakan Fatih Muhammad 👋</h2>
+</div>
 
 # 💫 About Me:
 Hi! I'm a tech enthusiast studying Informatics at Gunadarma University. My journey in coding is driven by a curiosity to understand how complex software systems work. Right now, I'm sharpening my skills in backend development and cloud computing, while constantly exploring open-source opportunities to grow as a developer.
